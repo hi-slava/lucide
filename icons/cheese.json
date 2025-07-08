@@ -1,0 +1,21 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "hi-slava"
+  ],
+  "tags": [
+    "dairy",
+    "cheese",
+    "food",
+    "snack",
+    "ingredient",
+    "wedge",
+    "slice",
+    "cooking",
+    "meal",
+    "nutrition"
+  ],
+  "categories": [
+    "food & beverage"
+  ]
+}
